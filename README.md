@@ -1,4 +1,4 @@
-# Gmail Automation: AI Internship Email Tracker
+# Gmail Automation Internship
 
 An n8n workflow that reads internship related emails from Gmail, extracts the key details with a language model, and records them in Google Sheets as a single organized tracker.
 
